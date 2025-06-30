@@ -1,0 +1,22 @@
+.button {
+    border: 3px solid white;
+    height: 10vh;
+    width: 10vh;
+
+}
+
+#green {
+    background-color: green;
+}
+
+#red {
+    background-color: red;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#white {
+    background-color: antiquewhite;
+}
